@@ -1,4 +1,4 @@
-# predict churn modelling
+# PREDICT CHURN MODELLING
 
 source data = https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers?resource=download
 
